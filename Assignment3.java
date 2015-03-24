@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Assignment3 {
+public class AccountType {
  public static void main(String[] args) {
   String tempuser = "";
   String temppass = "";
